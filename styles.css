@@ -1,0 +1,41 @@
+/* add your CSS here */
+.container {
+	border: .5px solid #dcdcdc;
+	width: 330px;
+	box-shadow: 6px 6px 6px #e9e9e9;
+}
+
+h3 {
+	font-size: 24px;
+	margin-left: 15px;
+}
+
+
+img {
+	width: 300px;
+	margin: 0 15px;
+
+	/*border: 1px solid red;*/
+}
+
+.information {
+	border: .5px solid #dcdcdc;
+	width: 300px;
+	margin: 15px;
+	font-size: 12px;
+	box-sizing: border-box;
+	padding: 10px;
+}
+
+.interesting {
+	font-style: italic;
+}
+
+li span {
+	font-weight: bold;
+}
+
+ul {
+	list-style: none;
+	padding-left: 0;
+}
